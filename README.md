@@ -1,6 +1,6 @@
 # free-converter.site
 
-![free-converter.site Banner](https://free-converter.site/og-image.webp)
+![free-converter.site Banner](https://github.com/devchauhann/free-converter/blob/main/og-image.webp)
 
 **free-converter.site** is a privacy-first, open-source, local-only file converter. Convert images, PDFs, videos, and documents directly in your browser—your files never leave your device!
 
